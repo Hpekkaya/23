@@ -74,5 +74,23 @@
 // console.log("Yeni Seçme Meyveler-2:",secmeMeyveler2)
 
 
+// // soert() Sorts the elements of an array
+
+// const meyveler = ["elma","armut","mandalina"]
+// console.log("Beginnig Fruits :", meyveler)
+// console.log(meyveler.sort())
+// console.log(meyveler.reverse())
+// // soert() When sorts number use the below function
+// const numbers = [1,100,20,45]
+// console.log(numbers.sort(function(a,b){return a-b}))
+// console.log(numbers.sort(function(a,b){return b-a}))
+
+
+// const cars = [{type:"Volvo", year:2020},{type:"Fiat", year:2015},{type:"BMW", year:2010}]
+// console.log(cars)
+// const carsNew = cars.sort(function(a,b){return a.year-b.year})
+// console.log(carsNew)
+
+
 
 
